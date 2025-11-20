@@ -11,7 +11,8 @@ Features
 
 UI Preview
 https://github.com/dinma224/Fitness-app/blob/main/FINAL%20DESIGN-2.png
-*(Add your exported screenshots here)*
+https://github.com/dinma224/Fitness-app/blob/main/FINAL%20DESIGN.png
+
 
  Tools Used
 - Figma (Auto-layout, Components, Prototype)
