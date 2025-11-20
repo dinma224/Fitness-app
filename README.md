@@ -10,6 +10,7 @@ Features
 - Clean, minimal, data-focused layout
 
 UI Preview
+https://github.com/dinma224/Fitness-app/blob/main/FINAL%20DESIGN-2.png
 *(Add your exported screenshots here)*
 
  Tools Used
